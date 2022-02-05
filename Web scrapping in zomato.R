@@ -1,6 +1,6 @@
 library(rvest)
 
-zom <- read_html("https://www.zomato.com/bangalore/best-bakeries?establishment_type_id=31&page=1")
+zom <- read_html("https://www.zomato.com/chennai/copper-kitchen-saligramam/order")
 
 titles <- zom %>% 
   html_nodes(".result-title") %>% 
