@@ -1,6 +1,3 @@
 # PortfolioProjects
 
-Hi there , I am Ashwath - Data Analyst Intern
-
-I am currently studying  
-I am working on Data Analytics Projects
+These are the portfolio projects I have completed during the 2020 lockdown.
